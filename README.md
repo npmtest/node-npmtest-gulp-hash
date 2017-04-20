@@ -1,4 +1,7 @@
-# test coverage for  [gulp-hash (v4.1.1)](https://github.com/Dragory/gulp-hash)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-hash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-hash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-hash.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-hash)
+# npmtest-gulp-hash
+
+#### basic test coverage for  [gulp-hash (v4.1.1)](https://github.com/Dragory/gulp-hash)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-hash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-hash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-hash.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-hash)
+
 #### Cachebust your assets by adding a hash to the filename
 
 [![NPM](https://nodei.co/npm/gulp-hash.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-hash)
